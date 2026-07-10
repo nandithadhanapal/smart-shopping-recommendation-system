@@ -105,7 +105,7 @@ def load_data():
     remove_words = [
         "bra",
         "boxer",
-        "brief","camisoles"
+        "brief","camisoles","dresses
     ]
 
     df = df[
